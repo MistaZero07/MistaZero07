@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @MistaZero07
 - 👀 I’m interested in (...........)
 - 🌱 I’m currently learning SQL
-- 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me : email: himalranabhat07@gmail.com
+- 💞️ I’m looking to collaborate on project
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Lefty
 
