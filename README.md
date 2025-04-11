@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MistaZero07
 - 👀 I’m interested in (...........)
-- 🌱 I’m currently learning SQL
-- 💞️ I’m looking to collaborate on project
+- 🌱 I’m currently learning SQL & Python
+- I’m looking to collaborate on project
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Lefty
 
